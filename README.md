@@ -1,5 +1,11 @@
-### Hi there 👋
-       
+<!-- 标题 + 个人描述 -->
+<p align="center">
+  <h1 height="200px" align="center">
+    God dag, I'm HuangChen
+  </h1>
+   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 </p>
+</p>
+
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
